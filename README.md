@@ -24,4 +24,4 @@ It can classify Nike, Adidas and Reebok.
 
 
 
-https://hub.gke2.mybinder.org/user/freemjstudio-shoes-classifier-2gyjqks5/voila/render/shoes_classifier_app.ipynb
+https://hub.gke2.mybinder.org/user/freemjstudio-shoes-classifier-478h0fvt/voila/render/shoes_classifier_app.ipynb?token=mIWLcGUZSh-UDLE2bqt85w
