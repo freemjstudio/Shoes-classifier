@@ -1,6 +1,9 @@
 # Shoes-classifier
 
-classify sneakers brand [nike, adidas, reebok]
+It will predict your sneakers brand, as nike / adidas / reebok.
+
+
+
 
 * fastai
 * Jupyter
